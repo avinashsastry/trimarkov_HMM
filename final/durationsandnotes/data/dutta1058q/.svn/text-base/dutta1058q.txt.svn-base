@@ -1,0 +1,1198 @@
+!! iid: dutta1058q
+!! 
+!! theme: dhagena  dhaterekete  dhetete  dhagena
+!! 
+!! vol: 1
+!! 
+!! page: 58
+!! 
+!! form: qaida
+!! 
+!! taal: teentaal
+!! 
+!! tempo: madhyalaya
+!! 
+!! 
+!! !!theme
+**bol
+!DATA> dhagena  dha-terekete  dhetete  dhagena  
+!PARSE> 4: HUb/H-pjWp/Epp/HUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 3
+12dha
+12ge
+12na/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12dha
+24te
+24re
+24ke
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 3
+12dhe
+12te
+12te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 3
+12dha
+12ge
+12na/
+*break
+!DATA> dha-terekete  dhetete  ghenetu  nakena  
+!PARSE> 4: H-pjWp/Epp/Jcv/bWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12dha
+24te
+24re
+24ke
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 3
+12dhe
+12te
+12te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 3
+12ghe
+12ne
+12tu/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 3
+12na
+12ke
+12na/
+*break
+!DATA> takena  ta-terekete  thetete  takena  
+!PARSE> 4: mWb/m-pjWp/dpp/mWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 3
+12ta
+12ke
+12na/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12ta
+24te
+24re
+24ke
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 3
+12the
+12te
+12te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 3
+12ta
+12ke
+12na/
+*break
+!DATA> dha-terekete  dhetete  ghenedhi  nagena  
+!PARSE> 4: H-pjWp/Epp/JcF/bUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12dha
+24te
+24re
+24ke
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 3
+12dhe
+12te
+12te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 3
+12ghe
+12ne
+12dhi/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 3
+12na
+12ge
+12na/
+*break
+*sam
+*-
+!! !!var 1
+**bol
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dha-tereketedhetete  ghenetunakena  
+!PARSE> 2: H-pjWpEpp/JcvbWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+18dha
+36te
+36re
+36ke
+36te
+36dhe
+36te
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ghe
+24ne
+24tu
+24na
+24ke
+24na/
+*break
+!DATA> takenata-terekete  thetetetakena  
+!PARSE> 2: mWbm-pjWp/dppmWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36ta
+36ke
+36na
+18ta
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24the
+24te
+24te
+24ta
+24ke
+24na/
+*break
+!DATA> takenata-terekete  thetetetakena  
+!PARSE> 2: mWbm-pjWp/dppmWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36ta
+36ke
+36na
+18ta
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24the
+24te
+24te
+24ta
+24ke
+24na/
+*break
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dha-tereketedhetete  ghenedhinagena  
+!PARSE> 2: H-pjWpEpp/JcFbUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+18dha
+36te
+36re
+36ke
+36te
+36dhe
+36te
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ghe
+24ne
+24dhi
+24na
+24ge
+24na/
+*break
+*sam
+*-
+!! !!var 2
+**bol
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dhetetedhagena  dhetetedhagena  
+!PARSE> 2: EppHUb/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dha-tereketedhetete  ghenetunakena  
+!PARSE> 2: H-pjWpEpp/JcvbWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+18dha
+36te
+36re
+36ke
+36te
+36dhe
+36te
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ghe
+24ne
+24tu
+24na
+24ke
+24na/
+*break
+!DATA> takenata-terekete  thetetetakena  
+!PARSE> 2: mWbm-pjWp/dppmWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36ta
+36ke
+36na
+18ta
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24the
+24te
+24te
+24ta
+24ke
+24na/
+*break
+!DATA> thetetetakena  thetetetakena  
+!PARSE> 2: dppmWb/dppmWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24the
+24te
+24te
+24ta
+24ke
+24na/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24the
+24te
+24te
+24ta
+24ke
+24na/
+*break
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dha-tereketedhetete  ghenedhinagena  
+!PARSE> 2: H-pjWpEpp/JcFbUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+18dha
+36te
+36re
+36ke
+36te
+36dhe
+36te
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ghe
+24ne
+24dhi
+24na
+24ge
+24na/
+*break
+*sam
+*-
+!! !!var 3
+**bol
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> ---dhagena  dhetetedhagena  
+!PARSE> 2: ---HUb/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+8r
+24dha
+24ge
+24na/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dha-tereketedhetete  ghenetunakena  
+!PARSE> 2: H-pjWpEpp/JcvbWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+18dha
+36te
+36re
+36ke
+36te
+36dhe
+36te
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ghe
+24ne
+24tu
+24na
+24ke
+24na/
+*break
+!DATA> takenata-terekete  thetetetakena  
+!PARSE> 2: mWbm-pjWp/dppmWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36ta
+36ke
+36na
+18ta
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24the
+24te
+24te
+24ta
+24ke
+24na/
+*break
+!DATA> ---takena  thetetetakena  
+!PARSE> 2: ---mWb/dppmWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+8r
+24ta
+24ke
+24na/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24the
+24te
+24te
+24ta
+24ke
+24na/
+*break
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dha-tereketedhetete  ghenedhinagena  
+!PARSE> 2: H-pjWpEpp/JcFbUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+18dha
+36te
+36re
+36ke
+36te
+36dhe
+36te
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ghe
+24ne
+24dhi
+24na
+24ge
+24na/
+*break
+*sam
+*-
+!! !!var 4
+**bol
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> ---dhagena  ---dhagena  
+!PARSE> 2: ---HUb/---HUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+8r
+24dha
+24ge
+24na/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+8r
+24dha
+24ge
+24na/
+*break
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dha-tereketedhetete  ghenetunakena  
+!PARSE> 2: H-pjWpEpp/JcvbWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+18dha
+36te
+36re
+36ke
+36te
+36dhe
+36te
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ghe
+24ne
+24tu
+24na
+24ke
+24na/
+*break
+!DATA> takenata-terekete  thetetetakena  
+!PARSE> 2: mWbm-pjWp/dppmWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36ta
+36ke
+36na
+18ta
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24the
+24te
+24te
+24ta
+24ke
+24na/
+*break
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dha-tereketedhetete  ghenedhinagena  
+!PARSE> 2: H-pjWpEpp/JcFbUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+18dha
+36te
+36re
+36ke
+36te
+36dhe
+36te
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ghe
+24ne
+24dhi
+24na
+24ge
+24na/
+*break
+*sam
+*-
+!! !!var 5
+**bol
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+*-
+!! ---dhagena  kathagadighene  
+**bol
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dha-tereketedhetete  ghenetunakena  
+!PARSE> 2: H-pjWpEpp/JcvbWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+18dha
+36te
+36re
+36ke
+36te
+36dhe
+36te
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ghe
+24ne
+24tu
+24na
+24ke
+24na/
+*break
+!DATA> takenata-terekete  thetetetakena  
+!PARSE> 2: mWbm-pjWp/dppmWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36ta
+36ke
+36na
+18ta
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24the
+24te
+24te
+24ta
+24ke
+24na/
+*break
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dha-tereketedhetete  ghenedhinagena  
+!PARSE> 2: H-pjWpEpp/JcFbUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+18dha
+36te
+36re
+36ke
+36te
+36dhe
+36te
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ghe
+24ne
+24dhi
+24na
+24ge
+24na/
+*break
+*sam
+*-
+!! !!var 6
+**bol
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+*-
+!! dhagenadhetete  kathagadighene  
+**bol
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dha-tereketedhetete  ghenetunakena  
+!PARSE> 2: H-pjWpEpp/JcvbWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+18dha
+36te
+36re
+36ke
+36te
+36dhe
+36te
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ghe
+24ne
+24tu
+24na
+24ke
+24na/
+*break
+!DATA> takenata-terekete  thetetetakena  
+!PARSE> 2: mWbm-pjWp/dppmWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36ta
+36ke
+36na
+18ta
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24the
+24te
+24te
+24ta
+24ke
+24na/
+*break
+*-
+!! takenathetete  kathagadighene  
+**bol
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dha-tereketedhetete  ghenedhinagena  
+!PARSE> 2: H-pjWpEpp/JcFbUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+18dha
+36te
+36re
+36ke
+36te
+36dhe
+36te
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ghe
+24ne
+24dhi
+24na
+24ge
+24na/
+*break
+*sam
+*-
+!! !!var 7
+**bol
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+*-
+!! dhagenadhetete  kathagadighene  
+!! dhagenadhetete  kathagadighene  
+**bol
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+*-
+!! dhagenadhetete  kathagadighene  
+**bol
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dha-tereketedhetete  ghenetunakena  
+!PARSE> 2: H-pjWpEpp/JcvbWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+18dha
+36te
+36re
+36ke
+36te
+36dhe
+36te
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ghe
+24ne
+24tu
+24na
+24ke
+24na/
+*break
+!DATA> takenata-terekete  thetetetakena  
+!PARSE> 2: mWbm-pjWp/dppmWb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36ta
+36ke
+36na
+18ta
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24the
+24te
+24te
+24ta
+24ke
+24na/
+*break
+*-
+!! takenathetete  kathakadikene  
+!! takenathetete  kathakadikene  
+**bol
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+*-
+!! dhagenadhetete  kathagadighene  
+**bol
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+!DATA> dha-tereketedhetete  ghenedhinagena  
+!PARSE> 2: H-pjWpEpp/JcFbUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+18dha
+36te
+36re
+36ke
+36te
+36dhe
+36te
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ghe
+24ne
+24dhi
+24na
+24ge
+24na/
+*break
+*sam
+*-
+!! !!tihai
+**bol
+!DATA> dhagenadha-terekete  dhetetedhagena  
+!PARSE> 2: HUbH-pjWp/EppHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+36dha
+36ge
+36na
+18dha
+36te
+36re
+36ke
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+*break
+*-
+!! dhagenadhetete  kathagadighene  
+**bol
+!DATA> dha--kat-te  dha--dhagena  
+!PARSE> 2: H--K-p/H--HUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+8dha
+12kat
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+8dha
+24dha
+24ge
+24na/
+*break
+!DATA> dha-tereketedhetete  dhagenadhagena  
+!PARSE> 2: H-pjWpEpp/HUbHUb
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 9
+18dha
+36te
+36re
+36ke
+36te
+36dhe
+36te
+36te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dha
+24ge
+24na
+24dha
+24ge
+24na/
+*break
+*-
+!! dhetetekathaga  dighenedha--  
+**bol
+!DATA> kat-tedha--  dhagenadhaterekete  
+!PARSE> 2: K-pH--/HUbHpjWp
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12kat
+24te
+8dha/
+32dha
+32ge
+32na
+32dha
+32te
+32re
+32ke
+32te/
+*break
+!DATA> dhetetedhagena  dhagenadhetete  
+!PARSE> 2: EppHUb/HUbEpp
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dha
+24ge
+24na/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dha
+24ge
+24na
+24dhe
+24te
+24te/
+*break
+!! kathagadighene  dha--kat-te  
+!! dha
+*-

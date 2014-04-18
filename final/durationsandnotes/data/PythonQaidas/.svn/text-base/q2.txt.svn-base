@@ -1,0 +1,66 @@
+!! !!iid: Qaida  2  (8  beats)
+!!theme 
+**bol
+!DATA> dhi-tak-  na-gene  takenagena(3)  dhadhagene  tagenage  dhin-tage  nagedhin-  tagenage
+!PARSE> 8: F-M-/b-Uc/mW(bUb)/HHUc/mUbU/B-mU/bUB-/mUbU
+8dhi
+8tak/
+8na
+16ge
+16ne/
+16ta
+16ke
+24na
+24ge
+24na/
+16dha
+16dha
+16ge
+16ne/
+16ta
+16ge
+16na
+16ge/
+8dhin
+16ta
+16ge/
+16na
+16ge
+8dhin/
+16ta
+16ge
+16na
+16ge/
+*break
+!DATA> ti-tak-  na-kene  takenakena(3)  tatakene  takenake  tin-take  naketin-  takenake
+!PARSE> 8: q-M-/b-Wc/mW(bWb)/mmWc/mWbW/P-mW/bWP-/mWbW
+8ti
+8tak/
+8na
+16ke
+16ne/
+16ta
+16ke
+24na
+24ke
+24na/
+16ta
+16ta
+16ke
+16ne/
+16ta
+16ke
+16na
+16ke/
+8tin
+16ta
+16ke/
+16na
+16ke
+8tin/
+16ta
+16ke
+16na
+16ke/
+*break
+*sam

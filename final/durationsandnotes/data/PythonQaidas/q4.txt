@@ -1,0 +1,58 @@
+!! !!iid: Qaida  4  (8  beats)
+!!theme 
+**bol
+!DATA> dha-tete  gerenage  geranage  tet---  dha-dha-  gerenage  tun-na-  kerenake
+!PARSE> 8: H-pp/UjbU/UfbU/O---/H-H-/UjbU/Q-b-/WjbW
+8dha
+16te
+16te/
+16ge
+16re
+16na
+16ge/
+16ge
+16ra
+16na
+16ge/
+4tet/
+8dha
+8dha/
+16ge
+16re
+16na
+16ge/
+8tun
+8na/
+16ke
+16re
+16na
+16ke/
+*break
+!DATA> ta-tete  kerenake  kerenake  tet---  dha-dha-  gerenage  dhi-na-  gerenage
+!PARSE> 8: m-pp/WjbW/WjbW/O---/H-H-/UjbU/F-b-/UjbU
+8ta
+16te
+16te/
+16ke
+16re
+16na
+16ke/
+16ke
+16re
+16na
+16ke/
+4tet/
+8dha
+8dha/
+16ge
+16re
+16na
+16ge/
+8dhi
+8na/
+16ge
+16re
+16na
+16ge/
+*break
+*sam

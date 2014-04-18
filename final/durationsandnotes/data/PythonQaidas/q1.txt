@@ -1,0 +1,102 @@
+!! !!iid: Qaida  1  (8  beats)
+!!theme
+**bol
+!DATA> dhin--(3)dhagena(3)  dha--(3)dhagena(3)  dhatete(3)dhatidha(3)  genatu(3)nakena(3)
+!PARSE> 4: (B--)(HUb)/(H--)(HUb)/(Hpp)(HqH)/(Ubv)(bWb)
+8dhin
+24dha
+24ge
+24na/
+8dha
+24dha
+24ge
+24na/
+24dha
+24te
+24te
+24dha
+24ti
+24dha/
+24ge
+24na
+24tu
+24na
+24ke
+24na/
+*break
+!DATA> gena-(3)dhagena(3)  dhatete(3)dhagena(3)  dhatete(3)dhatidha(3)  genatu(3)nakena(3)
+!PARSE> 4: (Ub-)(HUb)/(Hpp)(HUb)/(Hpp)(HqH)/(Ubv)(bWb)
+24ge
+12na
+24dha
+24ge
+24na/
+24dha
+24te
+24te
+24dha
+24ge
+24na/
+24dha
+24te
+24te
+24dha
+24ti
+24dha/
+24ge
+24na
+24tu
+24na
+24ke
+24na/
+*break
+!DATA> tin--(3)takena(3)  ta--(3)takena(3)  tatete(3)tatita(3)  kenatu(3)nakena(3)
+!PARSE> 4: (P--)(mWb)/(m--)(mWb)/(mpp)(mqm)/(Wbv)(bWb)
+8tin
+24ta
+24ke
+24na/
+8ta
+24ta
+24ke
+24na/
+24ta
+24te
+24te
+24ta
+24ti
+24ta/
+24ke
+24na
+24tu
+24na
+24ke
+24na/
+*break
+!DATA> gena-(3)dhagena(3)  dhatete(3)dhagena(3)  dhatete(3)dhatidha(3)  genatu(3)nakena(3)
+!PARSE> 4: (Ub-)(HUb)/(Hpp)(HUb)/(Hpp)(HqH)/(Ubv)(bWb)
+24ge
+12na
+24dha
+24ge
+24na/
+24dha
+24te
+24te
+24dha
+24ge
+24na/
+24dha
+24te
+24te
+24dha
+24ti
+24dha/
+24ge
+24na
+24tu
+24na
+24ke
+24na/
+*break
+*sam

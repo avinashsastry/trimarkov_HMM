@@ -1,0 +1,1003 @@
+!! iid: dutta1073t
+!! theme: din---din---  te-te-te-te-  ghe-ghe-te-te-  ga-di-ghe-ne-
+!! vol: 1
+!! page: 73
+!! form: tukda
+!! taal: teentaal
+!! tempo: madhyalaya
+!! 
+!! !!theme
+**bol
+!DATA> din---din---  te-te-te-te-  ghe-ghe-te-te-  ga-di-ghe-ne-  
+!PARSE> 4: g---g---/p-p-p-p-/J-J-p-p-/T-S-J-c-
+8din
+8din/
+16te
+16te
+16te
+16te/
+16ghe
+16ghe
+16te
+16te/
+16ga
+16di
+16ghe
+16ne/
+*break
+!DATA> ta-ki-te-dha-  --ne-dha---  te-te-ka-tha-  ga-di-ghe-ne-  
+!PARSE> 4: m-X-p-H-/--c-H---/p-p-V-e-/T-S-J-c-
+16ta
+16ki
+16te
+16dha/
+16r
+16ne
+8dha/
+16te
+16te
+16ka
+16tha/
+16ga
+16di
+16ghe
+16ne/
+*break
+!DATA> dha---ka-te-  dha---te-te-  ka-tha-ga-di-  ghe-ne-dha---  
+!PARSE> 4: H---V-p-/H---p-p-/V-e-T-S-/J-c-H---
+8dha
+16ka
+16te/
+8dha
+16te
+16te/
+16ka
+16tha
+16ga
+16di/
+16ghe
+16ne
+8dha/
+*break
+!DATA> ka-te-dha---  te-te-ka-tha-  ga-di-ghe-ne-  dha---ka-te-  
+!PARSE> 4: V-p-H---/p-p-V-e-/T-S-J-c-/H---V-p-
+16ka
+16te
+8dha/
+16te
+16te
+16ka
+16tha/
+16ga
+16di
+16ghe
+16ne/
+8dha
+16ka
+16te/
+*break
+!DATA> dha-------
+!PARSE> 1: H-------
+4dha/
+*break
+*-
+!! !!theme
+**bol
+!DATA> din---din---  te-te-te-te-  na-ge-te-te-  ghe-ghe-te-te-  
+!PARSE> 4: g---g---/p-p-p-p-/b-U-p-p-/J-J-p-p-
+8din
+8din/
+16te
+16te
+16te
+16te/
+16na
+16ge
+16te
+16te/
+16ghe
+16ghe
+16te
+16te/
+*break
+!DATA> dha-tereketedhe-  te-te-ka-tha-  ga-di-ghe-ne-  dha---te---  
+!PARSE> 4: H-pjWpE-/p-p-V-e-/T-S-J-c-/H---p---
+16dha
+32te
+32re
+32ke
+32te
+16dhe/
+16te
+16te
+16ka
+16tha/
+16ga
+16di
+16ghe
+16ne/
+8dha
+8te/
+*break
+!DATA> dha-------  ----ka-tha-  ga-di-ghe-ne-  dha---te---  
+!PARSE> 4: H-------/----V-e-/T-S-J-c-/H---p---
+4dha/
+8r
+16ka
+16tha/
+16ga
+16di
+16ghe
+16ne/
+8dha
+8te/
+*break
+!DATA> dha-------  ----ka-tha-  ga-di-ghe-ne-  dha---te---  
+!PARSE> 4: H-------/----V-e-/T-S-J-c-/H---p---
+4dha/
+8r
+16ka
+16tha/
+16ga
+16di
+16ghe
+16ne/
+8dha
+8te/
+*break
+!DATA> dha-------
+!PARSE> 1: H-------
+4dha/
+*break
+*-
+!! !!theme
+**bol
+!DATA> ke---te-te-  ghe-ghe-te-te-  ka-ta-ka-ta-  ghe-ghe-te-te-  
+!PARSE> 4: W---p-p-/J-J-p-p-/V-m-V-m-/J-J-p-p-
+8ke
+16te
+16te/
+16ghe
+16ghe
+16te
+16te/
+16ka
+16ta
+16ka
+16ta/
+16ghe
+16ghe
+16te
+16te/
+*break
+!DATA> ka-ta-ghe-ghe-  te-te-ka-tha-  ga-di-ghe-ne-  dha---te---  
+!PARSE> 4: V-m-J-J-/p-p-V-e-/T-S-J-c-/H---p---
+16ka
+16ta
+16ghe
+16ghe/
+16te
+16te
+16ka
+16tha/
+16ga
+16di
+16ghe
+16ne/
+8dha
+8te/
+*break
+!DATA> dha---ghe-ghe-  te-te-ka-tha-  ga-di-ghe-ne-  dha---te---  
+!PARSE> 4: H---J-J-/p-p-V-e-/T-S-J-c-/H---p---
+8dha
+16ghe
+16ghe/
+16te
+16te
+16ka
+16tha/
+16ga
+16di
+16ghe
+16ne/
+8dha
+8te/
+*break
+!DATA> dha---ghe-ghe-  te-te-ka-tha-  ga-di-ghe-ne-  dha---te---  
+!PARSE> 4: H---J-J-/p-p-V-e-/T-S-J-c-/H---p---
+8dha
+16ghe
+16ghe/
+16te
+16te
+16ka
+16tha/
+16ga
+16di
+16ghe
+16ne/
+8dha
+8te/
+*break
+!DATA> dha-------
+!PARSE> 1: H-------
+4dha/
+*break
+*-
+!! !!theme
+**bol
+!DATA> dha-tereketetaka  tereketedha---  ke---te-te-  ghe-ghe-te-te-  
+!PARSE> 4: H-pjWpmV/pjWpH---/W---p-p-/J-J-p-p-
+16dha
+32te
+32re
+32ke
+32te
+32ta
+32ka/
+32te
+32re
+32ke
+32te
+8dha/
+8ke
+16te
+16te/
+16ghe
+16ghe
+16te
+16te/
+*break
+!DATA> kre-dha---ne-  ke---dha-tere  ketetakata-tere  ketetakata-kete  
+!PARSE> 4: x-H---c-/W---H-pj/WpmVm-pj/WpmVm-Wp
+16kre
+8dha
+16ne/
+8ke
+16dha
+32te
+32re/
+32ke
+32te
+32ta
+32ka
+16ta
+32te
+32re/
+32ke
+32te
+32ta
+32ka
+16ta
+32ke
+32te/
+*break
+!DATA> dha-------  ke---dha-tere  ketetakata-tere  ketetakata-kete  
+!PARSE> 4: H-------/W---H-pj/WpmVm-pj/WpmVm-Wp
+4dha/
+8ke
+16dha
+32te
+32re/
+32ke
+32te
+32ta
+32ka
+16ta
+32te
+32re/
+32ke
+32te
+32ta
+32ka
+16ta
+32ke
+32te/
+*break
+!DATA> dha-------  ke---dha-tere  ketetakata-tere  ketetakata-kete  
+!PARSE> 4: H-------/W---H-pj/WpmVm-pj/WpmVm-Wp
+4dha/
+8ke
+16dha
+32te
+32re/
+32ke
+32te
+32ta
+32ka
+16ta
+32te
+32re/
+32ke
+32te
+32ta
+32ka
+16ta
+32ke
+32te/
+*break
+!DATA> dha-------
+!PARSE> 1: H-------
+4dha/
+*break
+*-
+!! !!theme
+**bol
+!DATA> dha-ge-te-te-  ta-ge-te-te-  kre-dha---kre-  dha---ke---  
+!PARSE> 4: H-U-p-p-/m-U-p-p-/x-H---x-/H---W---
+16dha
+16ge
+16te
+16te/
+16ta
+16ge
+16te
+16te/
+16kre
+8dha
+16kre/
+8dha
+8ke/
+*break
+!DATA> din---din---  na-na-na-na-  ka-te-te-dha-  --ke---te-  
+!PARSE> 4: g---g---/b-b-b-b-/V-p-p-H-/--W---p-
+8din
+8din/
+16na
+16na
+16na
+16na/
+16ka
+16te
+16te
+16dha/
+16r
+8ke
+16te/
+*break
+!DATA> dha---ka-te-  dha---ka-te-  te-dha---ke-  --te-dha---  
+!PARSE> 4: H---V-p-/H---V-p-/p-H---W-/--p-H---
+8dha
+16ka
+16te/
+8dha
+16ka
+16te/
+16te
+8dha
+16ke/
+16r
+16te
+8dha/
+*break
+!DATA> ka-te-dha---  ka-te-te-dha-  --ke---te-  dha---ka-te-  
+!PARSE> 4: V-p-H---/V-p-p-H-/--W---p-/H---V-p-
+16ka
+16te
+8dha/
+16ka
+16te
+16te
+16dha/
+16r
+8ke
+16te/
+8dha
+16ka
+16te/
+*break
+!DATA> dha-------
+!PARSE> 1: H-------
+4dha/
+*break
+*-
+!! !!theme
+**bol
+!DATA> dhet---dhet---  dhe-te-te-te-  kre-dha---na-  ta-ge-te-te-  
+!PARSE> 4: A---A---/E-p-p-p-/x-H---b-/m-U-p-p-
+8dhet
+8dhet/
+16dhe
+16te
+16te
+16te/
+16kre
+8dha
+16na/
+16ta
+16ge
+16te
+16te/
+*break
+!DATA> tun---tun---  na-na-te-te-  kre-dha-na-na-  kre-dha---na-  
+!PARSE> 4: Q---Q---/b-b-p-p-/x-H-b-b-/x-H---b-
+8tun
+8tun/
+16na
+16na
+16te
+16te/
+16kre
+16dha
+16na
+16na/
+16kre
+8dha
+16na/
+*break
+!DATA> dha---ke---  dha---kre-dha-  na-na-kre-dha-  --na-dha---  
+!PARSE> 4: H---W---/H---x-H-/b-b-x-H-/--b-H---
+8dha
+8ke/
+8dha
+16kre
+16dha/
+16na
+16na
+16kre
+16dha/
+16r
+16na
+8dha/
+*break
+!DATA> ke---dha---  kre-dha-na-na-  kre-dha---na-  dha---ke---  
+!PARSE> 4: W---H---/x-H-b-b-/x-H---b-/H---W---
+8ke
+8dha/
+16kre
+16dha
+16na
+16na/
+16kre
+8dha
+16na/
+8dha
+8ke/
+*break
+!DATA> dha-------
+!PARSE> 1: H-------
+4dha/
+*break
+*-
+!! !!theme
+**bol
+!DATA> ghen-tereketetaka  ta---te-te-  ka-tha-ga-ghe-  na-ga-dha---  
+!PARSE> 4: y-pjWpmV/m---p-p-/V-e-T-J-/b-T-H---
+16ghen
+32te
+32re
+32ke
+32te
+32ta
+32ka/
+8ta
+16te
+16te/
+16ka
+16tha
+16ga
+16ghe/
+16na
+16ga
+8dha/
+*break
+!DATA> tun---na---  ghe-na-tu-na-  dha-tu-na-dha-  tu-na-dha-tu-  
+!PARSE> 4: Q---b---/J-b-v-b-/H-v-b-H-/v-b-H-v-
+8tun
+8na/
+16ghe
+16na
+16tu
+16na/
+16dha
+16tu
+16na
+16dha/
+16tu
+16na
+16dha
+16tu/
+*break
+!DATA> na---ka-tha-  ghe-na-tu-na-  dha-tu-na-dha-  tu-na-dha-tu-  
+!PARSE> 4: b---V-e-/J-b-v-b-/H-v-b-H-/v-b-H-v-
+8na
+16ka
+16tha/
+16ghe
+16na
+16tu
+16na/
+16dha
+16tu
+16na
+16dha/
+16tu
+16na
+16dha
+16tu/
+*break
+!DATA> na---ka-tha-  ghe-na-tu-na-  dha-tu-na-dha-  tu-na-dha-tu-
+!PARSE> 4: b---V-e-/J-b-v-b-/H-v-b-H-/v-b-H-v-
+8na
+16ka
+16tha/
+16ghe
+16na
+16tu
+16na/
+16dha
+16tu
+16na
+16dha/
+16tu
+16na
+16dha
+16tu/
+*break
+!DATA> na-------
+!PARSE> 1: b-------
+4na/
+*break
+*-
+!! !!theme
+**bol
+!DATA> dheretereketetaka  tereketeta---  teretereketetaka  tereketeta---  
+!PARSE> 4: EjpjWpmV/pjWpm---/pjpjWpmV/pjWpm---
+32dhe
+32re
+32te
+32re
+32ke
+32te
+32ta
+32ka/
+32te
+32re
+32ke
+32te
+8ta/
+32te
+32re
+32te
+32re
+32ke
+32te
+32ta
+32ka/
+32te
+32re
+32ke
+32te
+8ta/
+*break
+!DATA> ke---dha-na-  na-na-ka-ta-  --ne-ke---  dha-tun---na-  
+!PARSE> 4: W---H-b-/b-b-V-m-/--c-W---/H-Q---b-
+8ke
+16dha
+16na/
+16na
+16na
+16ka
+16ta/
+16r
+16ne
+8ke/
+16dha
+8tun
+16na/
+*break
+!DATA> ka-ta---ne-  ke---ta---  ke---dheretere  ketetakaterekete  
+!PARSE> 4: V-m---c-/W---m---/W---Ejpj/WpmVpjWp
+16ka
+8ta
+16ne/
+8ke
+8ta/
+8ke
+32dhe
+32re
+32te
+32re/
+32ke
+32te
+32ta
+32ka
+32te
+32re
+32ke
+32te/
+*break
+!DATA> dha---dheretere  ketetakaterekete  dha---dheretere  ketetakaterekete  
+!PARSE> 4: H---Ejpj/WpmVpjWp/H---Ejpj/WpmVpjWp
+8dha
+32dhe
+32re
+32te
+32re/
+32ke
+32te
+32ta
+32ka
+32te
+32re
+32ke
+32te/
+8dha
+32dhe
+32re
+32te
+32re/
+32ke
+32te
+32ta
+32ka
+32te
+32re
+32ke
+32te/
+*break
+!DATA> dha-------
+!PARSE> 1: H-------
+4dha/
+*break
+*-
+!! !!theme
+**bol
+!DATA> din-din-tete  tetegheghetete  gadighenetaki  tedha-nedha-  
+!PARSE> 4: g-g-pp/ppJJpp/TSJcmX/pH-cH-
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12din
+12din
+24te
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24te
+24te
+24ghe
+24ghe
+24te
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ga
+24di
+24ghe
+24ne
+24ta
+24ki/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24te
+12dha
+24ne
+12dha/
+*break
+!DATA> tetekathagadi  ghenedha-kate  dha-katedha-  katedha---  
+!PARSE> 4: ppVeTS/JcH-Vp/H-VpH-/VpH---
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24te
+24te
+24ka
+24tha
+24ga
+24di/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ghe
+24ne
+12dha
+24ka
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12dha
+24ka
+24te
+12dha/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ka
+24te
+6dha/
+*break
+!DATA> na-tetekatha  gadighenedha-  katedha-kate  dha-katedha-  
+!PARSE> 4: b-ppVe/TSJcH-/VpH-Vp/H-VpH-
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12na
+24te
+24te
+24ka
+24tha/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ga
+24di
+24ghe
+24ne
+12dha/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ka
+24te
+12dha
+24ka
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12dha
+24ka
+24te
+12dha/
+*break
+!DATA> --na-tete  kathagadighene  dha-katedha-  katedha-kate  
+!PARSE> 4: --b-pp/VeTSJc/H-VpH-/VpH-Vp
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12r
+12na
+24te
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ka
+24tha
+24ga
+24di
+24ghe
+24ne/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12dha
+24ka
+24te
+12dha/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ka
+24te
+12dha
+24ka
+24te/
+*break
+!DATA> dha-------
+!PARSE> 1: H-------
+4dha/
+*break
+*-
+!! !!theme
+**bol
+!DATA> dhe-te-te-te-  ta-ge-te-te-  kre-dha-te-te-  ta-ge-te-te-  
+!PARSE> 4: E-p-p-p-/m-U-p-p-/x-H-p-p-/m-U-p-p-
+16dhe
+16te
+16te
+16te/
+16ta
+16ge
+16te
+16te/
+16kre
+16dha
+16te
+16te/
+16ta
+16ge
+16te
+16te/
+*break
+!DATA> kre-dha-te-te-  kre-dha-te-te-  kre-dha-te-te-  ta---kre-dha-  
+!PARSE> 4: x-H-p-p-/x-H-p-p-/x-H-p-p-/m---x-H-
+16kre
+16dha
+16te
+16te/
+16kre
+16dha
+16te
+16te/
+16kre
+16dha
+16te
+16te/
+8ta
+16kre
+16dha/
+*break
+!DATA> te-te-ka-tha-  ga-di-ghe-ne-  dha---kre-dha-  te-te-ka-tha-  
+!PARSE> 4: p-p-V-e-/T-S-J-c-/H---x-H-/p-p-V-e-
+16te
+16te
+16ka
+16tha/
+16ga
+16di
+16ghe
+16ne/
+8dha
+16kre
+16dha/
+16te
+16te
+16ka
+16tha/
+*break
+!DATA> ga-di-ghe-ne-  dha---kre-dha-  te-te-ka-tha-  ga-di-ghe-ne-  
+!PARSE> 4: T-S-J-c-/H---x-H-/p-p-V-e-/T-S-J-c-
+16ga
+16di
+16ghe
+16ne/
+8dha
+16kre
+16dha/
+16te
+16te
+16ka
+16tha/
+16ga
+16di
+16ghe
+16ne/
+*break
+!DATA> dha-------
+!PARSE> 1: H-------
+4dha/
+*break
+*-
+!! !!theme
+**bol
+!DATA> dha-ge-te-te-  ta-ge-te-te-  kre-dha-te-te-  kre-dha-te-te-  
+!PARSE> 4: H-U-p-p-/m-U-p-p-/x-H-p-p-/x-H-p-p-
+16dha
+16ge
+16te
+16te/
+16ta
+16ge
+16te
+16te/
+16kre
+16dha
+16te
+16te/
+16kre
+16dha
+16te
+16te/
+*break
+!DATA> ta-ge-te-te-  kre-dha-te-te-  ka-te-te-ka-  te-te-ka-tha-  
+!PARSE> 4: m-U-p-p-/x-H-p-p-/V-p-p-V-/p-p-V-e-
+16ta
+16ge
+16te
+16te/
+16kre
+16dha
+16te
+16te/
+16ka
+16te
+16te
+16ka/
+16te
+16te
+16ka
+16tha/
+*break
+!DATA> dha-------  kre-dha-te-te-  ka-te-te-ka-  te-te-ka-tha-  
+!PARSE> 4: H-------/x-H-p-p-/V-p-p-V-/p-p-V-e-
+4dha/
+16kre
+16dha
+16te
+16te/
+16ka
+16te
+16te
+16ka/
+16te
+16te
+16ka
+16tha/
+*break
+!DATA> dha-------  kre-dha-te-te-  ka-te-te-ka-  te-te-ka-tha-  
+!PARSE> 4: H-------/x-H-p-p-/V-p-p-V-/p-p-V-e-
+4dha/
+16kre
+16dha
+16te
+16te/
+16ka
+16te
+16te
+16ka/
+16te
+16te
+16ka
+16tha/
+*break
+!DATA> dha-------
+!PARSE> 1: H-------
+4dha/
+*break
+*-
+!! !!theme
+**bol
+!DATA> dhet---dhet---  tereketedhet---  dhe-te-te-te-  kre-dha-te-te-  
+!PARSE> 4: A---A---/pjWpA---/E-p-p-p-/x-H-p-p-
+8dhet
+8dhet/
+32te
+32re
+32ke
+32te
+8dhet/
+16dhe
+16te
+16te
+16te/
+16kre
+16dha
+16te
+16te/
+*break
+!DATA> ka-te-te-dha-  --ne-dha---  ke---dheretere  ketetakatha-kete  
+!PARSE> 4: V-p-p-H-/--c-H---/W---Ejpj/WpmVe-Wp
+16ka
+16te
+16te
+16dha/
+16r
+16ne
+8dha/
+8ke
+32dhe
+32re
+32te
+32re/
+32ke
+32te
+32ta
+32ka
+16tha
+32ke
+32te/
+*break
+!DATA> dha-------  ke---dheretere  ketetakatha-kete  dha---ke---  
+!PARSE> 4: H-------/W---Ejpj/WpmVe-Wp/H---W---
+4dha/
+8ke
+32dhe
+32re
+32te
+32re/
+32ke
+32te
+32ta
+32ka
+16tha
+32ke
+32te/
+8dha
+8ke/
+*break
+!DATA> dheretereketetaka  tha-ketedha---  ke---dheretere  ketetakatha-kete  
+!PARSE> 4: EjpjWpmV/e-WpH---/W---Ejpj/WpmVe-Wp
+32dhe
+32re
+32te
+32re
+32ke
+32te
+32ta
+32ka/
+16tha
+32ke
+32te
+8dha/
+8ke
+32dhe
+32re
+32te
+32re/
+32ke
+32te
+32ta
+32ka
+16tha
+32ke
+32te/
+*break
+!DATA> dha-------
+!PARSE> 1: H-------
+4dha/
+*break
+*-

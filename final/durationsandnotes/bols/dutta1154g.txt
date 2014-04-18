@@ -1,0 +1,225 @@
+!! iid: dutta1154g
+!! theme: dha-tedhetete  dhetetedhetete  katetedhetete  kathagadighene
+!! vol: 1
+!! page: 154
+!! form: gat
+!! taal: ektaal
+!! tempo: madhyalaya
+!! 
+!! !!theme
+**bol
+!DATA> dha-tedhetete  dhetetedhetete  katetedhetete  kathagadighene  
+!PARSE> 4: H-pEpp/EppEpp/VppEpp/VeTSJc
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12dha
+24te
+24dhe
+24te
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dhe
+24te
+24te
+24dhe
+24te
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ka
+24te
+24te
+24dhe
+24te
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ka
+24tha
+24ga
+24di
+24ghe
+24ne/
+*break
+!DATA> na--ghen-te  dha--dha-tedhe  tetedhatetedhetete  katetedhetetekatha  
+!PARSE> 4: b--y-p/H--H-pE/ppHppEpp/VppEppVe
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+8na
+12ghen
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 7
+14.dha
+14dha
+28te
+28dhe/
+32te
+32te
+32dha
+32te
+32te
+32dhe
+32te
+32te/
+32ka
+32te
+32te
+32dhe
+32te
+32te
+32ka
+32tha/
+*break
+!DATA> gadighenena--ghen  -tedha-dha-tedhetete  dhatetedhetetekatetedhetete  
+!PARSE> 3: TSJcb--y/-pH-H-pEpp/HppEppVppEpp
+32ga
+32di
+32ghe
+32ne
+16.na
+32ghen/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 10
+40r
+40te
+20dha
+20dha
+40te
+40dhe
+40te
+40te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 12
+48dha
+48te
+48te
+48dhe
+48te
+48te
+48ka
+48te
+48te
+48dhe
+48te
+48te/
+*break
+!DATA> kathagadighenena--ghen-te  dha-----------
+!PARSE> 2: VeTSJcb--y-p/H-----------
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 12
+48ka
+48tha
+48ga
+48di
+48ghe
+48ne
+16na
+24ghen
+48te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 12
+4dha/
+*break
+*-
+!! !!theme
+**bol
+!DATA> dhage-thakete  dhageterekete  dhatetedhetete  kathagadighene  
+!PARSE> 4: HU-eWp/HUpjWp/HppEpp/VeTSJc
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dha
+12ge
+24tha
+24ke
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dha
+24ge
+24te
+24re
+24ke
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24dha
+24te
+24te
+24dhe
+24te
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+24ka
+24tha
+24ga
+24di
+24ghe
+24ne/
+*break
+!DATA> ghen-teghen-te  dha--dhage-tha  ketedhageterekete  dhatetedhetetekatha  
+!PARSE> 4: y-py-p/H--HU-e/WpHUpjWp/HppEppVe
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12ghen
+24te
+12ghen
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 7
+14.dha
+28dha
+14ge
+28tha/
+32ke
+32te
+32dha
+32ge
+32te
+32re
+32ke
+32te/
+32dha
+32te
+32te
+32dhe
+32te
+32te
+32ka
+32tha/
+*break
+!DATA> gadigheneghen-teghen  -tedha-dhage-thakete  dhagetereketedhatetedhetete  
+!PARSE> 3: TSJcy-py/-pH-HU-eWp/HUpjWpHppEpp
+32ga
+32di
+32ghe
+32ne
+16ghen
+32te
+32ghen/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 10
+40r
+40te
+20dha
+40dha
+20ge
+40tha
+40ke
+40te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 12
+48dha
+48ge
+48te
+48re
+48ke
+48te
+48dha
+48te
+48te
+48dhe
+48te
+48te/
+*break
+!DATA> kathagadigheneghen-teghen-te  dha-----------
+!PARSE> 2: VeTSJcy-py-p/H-----------
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 12
+48ka
+48tha
+48ga
+48di
+48ghe
+48ne
+24ghen
+48te
+24ghen
+48te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 12
+4dha/
+*break
+*-

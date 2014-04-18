@@ -1,0 +1,273 @@
+!! iid: dutta1160k
+!! theme: dha  ge  na  ti  na  ke  dhin  ne
+!! vol: 1
+!! page: 160
+!! form: kaharba
+!! taal: kaharba
+!! tempo: madhyalaya
+!! 
+!! !!theme
+**bol
+!DATA> dha  ge  na  ti  na  ke  dhin  ne  
+!PARSE> 8: H/U/b/q/b/W/B/c
+4dha/
+4ge/
+4na/
+4ti/
+4na/
+4ke/
+4dhin/
+4ne/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhage  nati  nake  dhinne  dhage  nati  nake  dhinne  
+!PARSE> 8: HU/bq/bW/Bc/HU/bq/bW/Bc
+8dha
+8ge/
+8na
+8ti/
+8na
+8ke/
+8dhin
+8ne/
+8dha
+8ge/
+8na
+8ti/
+8na
+8ke/
+8dhin
+8ne/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhage  nati  --  nati  --  nati  nake  dhinne  
+!PARSE> 8: HU/bq/--/bq/--/bq/bW/Bc
+8dha
+8ge/
+8na
+8ti/
+4r/
+8na
+8ti/
+4r/
+8na
+8ti/
+8na
+8ke/
+8dhin
+8ne/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhage  nati  --  nati  take  nati  --  nati  
+!PARSE> 8: HU/bq/--/bq/mW/bq/--/bq
+8dha
+8ge/
+8na
+8ti/
+4r/
+8na
+8ti/
+8ta
+8ke/
+8na
+8ti/
+4r/
+8na
+8ti/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhage  nati  --  nati  --  nati  --  nati  
+!PARSE> 8: HU/bq/--/bq/--/bq/--/bq
+8dha
+8ge/
+8na
+8ti/
+4r/
+8na
+8ti/
+4r/
+8na
+8ti/
+4r/
+8na
+8ti/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhage  nati  --  nati  nati  na-kete  takathaka  terekete  
+!PARSE> 8: HU/bq/--/bq/bq/b-Wp/mVeV/pjWp
+8dha
+8ge/
+8na
+8ti/
+4r/
+8na
+8ti/
+8na
+8ti/
+8na
+16ke
+16te/
+16ta
+16ka
+16tha
+16ka/
+16te
+16re
+16ke
+16te/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhage  tete  taga  dhete  dhage  tete  taga  dhete  
+!PARSE> 8: HU/pp/mT/Ep/HU/pp/mT/Ep
+8dha
+8ge/
+8te
+8te/
+8ta
+8ga/
+8dhe
+8te/
+8dha
+8ge/
+8te
+8te/
+8ta
+8ga/
+8dhe
+8te/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhage  tethe  taga  dhete  dhage  tethe  taga  dhete  
+!PARSE> 8: HU/pd/mT/Ep/HU/pd/mT/Ep
+8dha
+8ge/
+8te
+8the/
+8ta
+8ga/
+8dhe
+8te/
+8dha
+8ge/
+8te
+8the/
+8ta
+8ga/
+8dhe
+8te/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhage  tethe  tethe  tete  tage  tedhe  tedhe  tete  
+!PARSE> 8: HU/pd/pd/pp/mU/pE/pE/pp
+8dha
+8ge/
+8te
+8the/
+8te
+8the/
+8te
+8te/
+8ta
+8ge/
+8te
+8dhe/
+8te
+8dhe/
+8te
+8te/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhage  tethe  tethe  tethe  tethe  tethe  tethe  terekete  
+!PARSE> 8: HU/pd/pd/pd/pd/pd/pd/pjWp
+8dha
+8ge/
+8te
+8the/
+8te
+8the/
+8te
+8the/
+8te
+8the/
+8te
+8the/
+8te
+8the/
+16te
+16re
+16ke
+16te/
+*break
+*sam
+*-
+!! !!tihai
+!! tet-  ta-  tete  ta-  tete  na-kete  takathaka  terekete  
+**bol
+!DATA> dhage  tethe  tethe  tete  dha-  tete  dhage  tethe  
+!PARSE> 8: HU/pd/pd/pp/H-/pp/HU/pd
+8dha
+8ge/
+8te
+8the/
+8te
+8the/
+8te
+8te/
+4dha/
+8te
+8te/
+8dha
+8ge/
+8te
+8the/
+*break
+!DATA> tethe  tete  dha-  tete  dhage  tethe  tethe  tete  
+!PARSE> 8: pd/pp/H-/pp/HU/pd/pd/pp
+8te
+8the/
+8te
+8te/
+4dha/
+8te
+8te/
+8dha
+8ge/
+8te
+8the/
+8te
+8the/
+8te
+8te/
+*break
+!DATA> dha-
+!PARSE> 1: H-
+4dha/
+*break
+*-

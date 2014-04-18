@@ -1,0 +1,9 @@
+1	dha
+2	dhe
+3	dhin
+4	ge
+5	ke
+6	na
+7	te
+8	tin
+9	tun

@@ -1,0 +1,1182 @@
+!! 
+!! !!theme
+**bol
+!DATA> dhate  tedha  tete  dhadha  tete  dhaga  tuna  kena  
+!PARSE> 8: Hp/pH/pp/HH/pp/HT/vb/Wb
+8dha
+8te/
+8te
+8dha/
+8te
+8te/
+8dha
+8dha/
+8te
+8te/
+8dha
+8ga/
+8tu
+8na/
+8ke
+8na/
+*break
+!DATA> tate  teta  tete  tata  tete  dhaga  dhina  gena  
+!PARSE> 8: mp/pm/pp/mm/pp/HT/Fb/Ub
+8ta
+8te/
+8te
+8ta/
+8te
+8te/
+8ta
+8ta/
+8te
+8te/
+8dha
+8ga/
+8dhi
+8na/
+8ge
+8na/
+*break
+*sam
+*-
+!! !!var 1
+**bol
+!DATA> dhatetedha  tetedhadha  dhatetedha  tetedhadha  
+!PARSE> 4: HppH/ppHH/HppH/ppHH
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  tunakena  
+!PARSE> 4: HppH/ppHH/ppHT/vbWb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tateteta  tetetata  tateteta  tetetata  
+!PARSE> 4: mppm/ppmm/mppm/ppmm
+16ta
+16te
+16te
+16ta/
+16te
+16te
+16ta
+16ta/
+16ta
+16te
+16te
+16ta/
+16te
+16te
+16ta
+16ta/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  dhinagena  
+!PARSE> 4: HppH/ppHH/ppHT/FbUb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 2
+**bol
+!DATA> dhatetedha  tetedhadha  tetetete  dhadhatete  
+!PARSE> 4: HppH/ppHH/pppp/HHpp
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16te
+16te/
+16dha
+16dha
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  tunakena  
+!PARSE> 4: HppH/ppHH/ppHT/vbWb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tateteta  tetetata  tetetete  tatatete  
+!PARSE> 4: mppm/ppmm/pppp/mmpp
+16ta
+16te
+16te
+16ta/
+16te
+16te
+16ta
+16ta/
+16te
+16te
+16te
+16te/
+16ta
+16ta
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  dhinagena  
+!PARSE> 4: HppH/ppHH/ppHT/FbUb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 3
+**bol
+!DATA> dhatetedha  tetedhadha  tetedhadha  tetetete  
+!PARSE> 4: HppH/ppHH/ppHH/pppp
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  tunakena  
+!PARSE> 4: HppH/ppHH/ppHT/vbWb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tateteta  tetetata  tetetata  tetetete  
+!PARSE> 4: mppm/ppmm/ppmm/pppp
+16ta
+16te
+16te
+16ta/
+16te
+16te
+16ta
+16ta/
+16te
+16te
+16ta
+16ta/
+16te
+16te
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  dhinagena  
+!PARSE> 4: HppH/ppHH/ppHT/FbUb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 4
+**bol
+!DATA> dhatetedha  tetedhadha  tetedhadha  tetedhadha  
+!PARSE> 4: HppH/ppHH/ppHH/ppHH
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16dha/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  tunakena  
+!PARSE> 4: HppH/ppHH/ppHT/vbWb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tateteta  tetetata  tetetata  tetetata  
+!PARSE> 4: mppm/ppmm/ppmm/ppmm
+16ta
+16te
+16te
+16ta/
+16te
+16te
+16ta
+16ta/
+16te
+16te
+16ta
+16ta/
+16te
+16te
+16ta
+16ta/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  dhinagena  
+!PARSE> 4: HppH/ppHH/ppHT/FbUb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 5
+**bol
+!DATA> dhatetedha  tetedhadha  tetedhate  tedhatete  
+!PARSE> 4: HppH/ppHH/ppHp/pHpp
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16te/
+16te
+16dha
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  tunakena  
+!PARSE> 4: HppH/ppHH/ppHT/vbWb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tateteta  tetetata  tetetate  tetatete  
+!PARSE> 4: mppm/ppmm/ppmp/pmpp
+16ta
+16te
+16te
+16ta/
+16te
+16te
+16ta
+16ta/
+16te
+16te
+16ta
+16te/
+16te
+16ta
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  dhinagena  
+!PARSE> 4: HppH/ppHH/ppHT/FbUb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 6
+**bol
+!DATA> dhatetedha  tetedhate  tedhatete  dhadhatete  
+!PARSE> 4: HppH/ppHp/pHpp/HHpp
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16te/
+16te
+16dha
+16te
+16te/
+16dha
+16dha
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  tunakena  
+!PARSE> 4: HppH/ppHH/ppHT/vbWb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tateteta  tetetate  tetatete  tatatete  
+!PARSE> 4: mppm/ppmp/pmpp/mmpp
+16ta
+16te
+16te
+16ta/
+16te
+16te
+16ta
+16te/
+16te
+16ta
+16te
+16te/
+16ta
+16ta
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  dhinagena  
+!PARSE> 4: HppH/ppHH/ppHT/FbUb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 7
+**bol
+!DATA> dhatetedha  tetedhate  tetetete  tedhatete  
+!PARSE> 4: HppH/ppHp/pppp/pHpp
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16te/
+16te
+16te
+16te
+16te/
+16te
+16dha
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  tunakena  
+!PARSE> 4: HppH/ppHH/ppHT/vbWb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tateteta  tetetate  tetetete  tetatete  
+!PARSE> 4: mppm/ppmp/pppp/pmpp
+16ta
+16te
+16te
+16ta/
+16te
+16te
+16ta
+16te/
+16te
+16te
+16te
+16te/
+16te
+16ta
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  dhinagena  
+!PARSE> 4: HppH/ppHH/ppHT/FbUb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 8
+**bol
+!DATA> dhatetedha  tetedha-  -tetete  tedhatete  
+!PARSE> 4: HppH/ppH-/-ppp/pHpp
+16dha
+16te
+16te
+16dha/
+16te
+16te
+8dha/
+16r
+16te
+16te
+16te/
+16te
+16dha
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  tunakena  
+!PARSE> 4: HppH/ppHH/ppHT/vbWb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tateteta  teteta-  -tetete  tetatete  
+!PARSE> 4: mppm/ppm-/-ppp/pmpp
+16ta
+16te
+16te
+16ta/
+16te
+16te
+8ta/
+16r
+16te
+16te
+16te/
+16te
+16ta
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  dhinagena  
+!PARSE> 4: HppH/ppHH/ppHT/FbUb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 9
+**bol
+!DATA> dhatetedha  tetedha-  tetedhate  tedhatete  
+!PARSE> 4: HppH/ppH-/ppHp/pHpp
+16dha
+16te
+16te
+16dha/
+16te
+16te
+8dha/
+16te
+16te
+16dha
+16te/
+16te
+16dha
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  tunakena  
+!PARSE> 4: HppH/ppHH/ppHT/vbWb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tateteta  teteta-  tetetate  tetatete  
+!PARSE> 4: mppm/ppm-/ppmp/pmpp
+16ta
+16te
+16te
+16ta/
+16te
+16te
+8ta/
+16te
+16te
+16ta
+16te/
+16te
+16ta
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  dhinagena  
+!PARSE> 4: HppH/ppHH/ppHT/FbUb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 10
+**bol
+!DATA> dhatetedha  tetedha-  dhatetedha  tetedha-  
+!PARSE> 4: HppH/ppH-/HppH/ppH-
+16dha
+16te
+16te
+16dha/
+16te
+16te
+8dha/
+16dha
+16te
+16te
+16dha/
+16te
+16te
+8dha/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  tunakena  
+!PARSE> 4: HppH/ppHH/ppHT/vbWb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tateteta  teteta-  tateteta  teteta-  
+!PARSE> 4: mppm/ppm-/mppm/ppm-
+16ta
+16te
+16te
+16ta/
+16te
+16te
+8ta/
+16ta
+16te
+16te
+16ta/
+16te
+16te
+8ta/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  dhinagena  
+!PARSE> 4: HppH/ppHH/ppHT/FbUb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 11
+**bol
+!DATA> dhatetedha  tetedha-  dhatetedha  -dhatete  
+!PARSE> 4: HppH/ppH-/HppH/-Hpp
+16dha
+16te
+16te
+16dha/
+16te
+16te
+8dha/
+16dha
+16te
+16te
+16dha/
+16r
+16dha
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  tunakena  
+!PARSE> 4: HppH/ppHH/ppHT/vbWb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tateteta  teteta-  tateteta  -tatete  
+!PARSE> 4: mppm/ppm-/mppm/-mpp
+16ta
+16te
+16te
+16ta/
+16te
+16te
+8ta/
+16ta
+16te
+16te
+16ta/
+16r
+16ta
+16te
+16te/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  dhinagena  
+!PARSE> 4: HppH/ppHH/ppHT/FbUb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 12
+**bol
+!DATA> dhatetedha  --dhate  tedha--  dhatetedha  
+!PARSE> 4: HppH/--Hp/pH--/HppH
+16dha
+16te
+16te
+16dha/
+8r
+16dha
+16te/
+16te
+8.dha/
+16dha
+16te
+16te
+16dha/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  tunakena  
+!PARSE> 4: HppH/ppHH/ppHT/vbWb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tateteta  --tate  teta--  tateteta  
+!PARSE> 4: mppm/--mp/pm--/mppm
+16ta
+16te
+16te
+16ta/
+8r
+16ta
+16te/
+16te
+8.ta/
+16ta
+16te
+16te
+16ta/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  dhinagena  
+!PARSE> 4: HppH/ppHH/ppHT/FbUb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 13
+**bol
+!DATA> dhatetedha  --dha-  -dha--  dhatetedha  
+!PARSE> 4: HppH/--H-/-H--/HppH
+16dha
+16te
+16te
+16dha/
+8r
+8dha/
+16r
+8.dha/
+16dha
+16te
+16te
+16dha/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  tunakena  
+!PARSE> 4: HppH/ppHH/ppHT/vbWb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tateteta  --ta-  -ta--  tateteta  
+!PARSE> 4: mppm/--m-/-m--/mppm
+16ta
+16te
+16te
+16ta/
+8r
+8ta/
+16r
+8.ta/
+16ta
+16te
+16te
+16ta/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  dhinagena  
+!PARSE> 4: HppH/ppHH/ppHT/FbUb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 14
+**bol
+!DATA> dhatetedha  dha--dha  dha--dha  dha--dha  
+!PARSE> 4: HppH/H--H/H--H/H--H
+16dha
+16te
+16te
+16dha/
+8.dha
+16dha/
+8.dha
+16dha/
+8.dha
+16dha/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  tunakena  
+!PARSE> 4: HppH/ppHH/ppHT/vbWb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tateteta  ta--ta  ta--ta  ta--ta  
+!PARSE> 4: mppm/m--m/m--m/m--m
+16ta
+16te
+16te
+16ta/
+8.ta
+16ta/
+8.ta
+16ta/
+8.ta
+16ta/
+*break
+!DATA> dhatetedha  tetedhadha  tetedhaga  dhinagena  
+!PARSE> 4: HppH/ppHH/ppHT/FbUb
+16dha
+16te
+16te
+16dha/
+16te
+16te
+16dha
+16dha/
+16te
+16te
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!tihai
+**bol
+!DATA> dhatetedha  dha--dha  dha--dha  --dha-  
+!PARSE> 4: HppH/H--H/H--H/--H-
+16dha
+16te
+16te
+16dha/
+8.dha
+16dha/
+8.dha
+16dha/
+8r
+8dha/
+*break
+!DATA> -dha--  dha-dhate  tedhadha-  -dhadha-  
+!PARSE> 4: -H--/H-Hp/pHH-/-HH-
+16r
+8.dha/
+8dha
+16dha
+16te/
+16te
+16dha
+8dha/
+16r
+16dha
+8dha/
+*break
+!DATA> -dha--  dha--dha  --dha-  dhatetedha  
+!PARSE> 4: -H--/H--H/--H-/HppH
+16r
+8.dha/
+8.dha
+16dha/
+8r
+8dha/
+16dha
+16te
+16te
+16dha/
+*break
+!DATA> dha--dha  dha--dha  --dha-  -dha--  
+!PARSE> 4: H--H/H--H/--H-/-H--
+8.dha
+16dha/
+8.dha
+16dha/
+8r
+8dha/
+16r
+8.dha/
+*break
+!! dha
+*-

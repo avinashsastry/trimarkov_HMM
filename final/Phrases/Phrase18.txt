@@ -1,0 +1,182 @@
+!! iid: dutta1109g
+!! theme: dha-ge---  tha-ki-te-  dha-te-te-  dhe-te-te
+!! vol: 1
+!! page: 109
+!! form: gat
+!! taal: jhaptaal
+!! tempo: madhyalaya
+!! 
+!! !! theme
+**bol
+!DATA> dha-ge---  tha-ki-te-  dha-te-te-  dhe-te-te  
+!PARSE> 4: H-U---/e-X-p-/H-p-p-/E-p-p
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12dha
+6ge/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12tha
+12ki
+12te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12dha
+12te
+12te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 5
+10dhe
+10te
+20te/
+*break
+!DATA> ka-tha-ga-  di-ghe-ne-  na-ge-te-  re-ke-te-  
+!PARSE> 4: V-e-T-/S-J-c-/b-U-p-/j-W-p-
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12ka
+12tha
+12ga/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12di
+12ghe
+12ne/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12na
+12ge
+12te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12re
+12ke
+12te/
+*break
+!DATA> dha---ka-te-  dha-ge---tha-  ki-te-dha-te-  te-dhe-te-te-  
+!PARSE> 4: H---V-p-/H-U---e-/X-p-H-p-/p-E-p-p-
+8dha
+16ka
+16te/
+16dha
+8ge
+16tha/
+16ki
+16te
+16dha
+16te/
+16te
+16dhe
+16te
+16te/
+*break
+!DATA> ka-tha-ga-di-  ghe-ne-na-ge-  te-re-ke-te-  dha---ka-te-  
+!PARSE> 4: V-e-T-S-/J-c-b-U-/p-j-W-p-/H---V-p-
+16ka
+16tha
+16ga
+16di/
+16ghe
+16ne
+16na
+16ge/
+16te
+16re
+16ke
+16te/
+8dha
+16ka
+16te/
+*break
+!DATA> dha-ge---tha-ki-te-  dha-te-te-dhe-te-te-  
+!PARSE> 2: H-U---e-X-p-/H-p-p-E-p-p-
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 12
+24dha
+12ge
+24tha
+24ki
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 12
+24dha
+24te
+24te
+24dhe
+24te
+24te/
+*break
+!DATA> ka-tha-ga-di-ghe-ne-  na-ge-te-re-ke-te-
+!PARSE> 2: V-e-T-S-J-c-/b-U-p-j-W-p-
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 12
+24ka
+24tha
+24ga
+24di
+24ghe
+24ne/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 12
+24na
+24ge
+24te
+24re
+24ke
+24te/
+*break
+!DATA> dha-----------
+!PARSE> 1: H-----------
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 12
+4dha/
+*break
+*-
+!! !! theme
+**bol
+!DATA> dha-te-te-  dhe-te-te-  ka-tha-ga-  di-ghe-ne-  
+!PARSE> 4: H-p-p-/E-p-p-/V-e-T-/S-J-c-
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12dha
+12te
+12te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12dhe
+12te
+12te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12ka
+12tha
+12ga/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 6
+12di
+12ghe
+12ne/
+*break
+!DATA> dha---dha-te-  te-dhe-te-te-  ka-tha-ga-di-  ghe-ne-dha---  
+!PARSE> 4: H---H-p-/p-E-p-p-/V-e-T-S-/J-c-H---
+8dha
+16dha
+16te/
+16te
+16dhe
+16te
+16te/
+16ka
+16tha
+16ga
+16di/
+16ghe
+16ne
+8dha/
+*break
+!DATA> dha-te-te-dhe-te-te-  ka-tha-ga-di-ghe-ne-
+!PARSE> 2: H-p-p-E-p-p-/V-e-T-S-J-c-
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 12
+24dha
+24te
+24te
+24dhe
+24te
+24te/
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 12
+24ka
+24tha
+24ga
+24di
+24ghe
+24ne/
+*break
+!DATA> dha-----------
+!PARSE> 1: H-----------
+>>> WARNING: DIVISIONS ARE NOT A POWER OF TWO: 12
+4dha/
+*break
+*-

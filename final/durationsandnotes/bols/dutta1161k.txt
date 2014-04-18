@@ -1,0 +1,715 @@
+!! iid: dutta1161k
+!! theme: dhatu  nana  tadhin  nana  dhatu  nana  tadhin  nana
+!! vol: 1
+!! page: 161
+!! form: kaharba
+!! taal: kaharba
+!! tempo: madhyalaya
+!! 
+!! !!theme
+**bol
+!DATA> dhatu  nana  tadhin  nana  dhatu  nana  tadhin  nana  
+!PARSE> 8: Hv/bb/mB/bb/Hv/bb/mB/bb
+8dha
+8tu/
+8na
+8na/
+8ta
+8dhin/
+8na
+8na/
+8dha
+8tu/
+8na
+8na/
+8ta
+8dhin/
+8na
+8na/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhatu  nana  tuna  tuna  tatu  nana  tuna  tuna  
+!PARSE> 8: Hv/bb/vb/vb/mv/bb/vb/vb
+8dha
+8tu/
+8na
+8na/
+8tu
+8na/
+8tu
+8na/
+8ta
+8tu/
+8na
+8na/
+8tu
+8na/
+8tu
+8na/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhatu  nana  tuna  tuna  tuna  nadhin  nadhin  nana  
+!PARSE> 8: Hv/bb/vb/vb/vb/bB/bB/bb
+8dha
+8tu/
+8na
+8na/
+8tu
+8na/
+8tu
+8na/
+8tu
+8na/
+8na
+8dhin/
+8na
+8dhin/
+8na
+8na/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhinna  nadhin  natu  nana  tuna  nadhin  nadhin  nana  
+!PARSE> 8: Bb/bB/bv/bb/vb/bB/bB/bb
+8dhin
+8na/
+8na
+8dhin/
+8na
+8tu/
+8na
+8na/
+8tu
+8na/
+8na
+8dhin/
+8na
+8dhin/
+8na
+8na/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhinna  nadhin  nana  dhinna  dhinna  nadhin  natu  nana  
+!PARSE> 8: Bb/bB/bb/Bb/Bb/bB/bv/bb
+8dhin
+8na/
+8na
+8dhin/
+8na
+8na/
+8dhin
+8na/
+8dhin
+8na/
+8na
+8dhin/
+8na
+8tu/
+8na
+8na/
+*break
+!DATA> tuna  natu  nana  tuna  tuna  nadhin  nadhin  nana  
+!PARSE> 8: vb/bv/bb/vb/vb/bB/bB/bb
+8tu
+8na/
+8na
+8tu/
+8na
+8na/
+8tu
+8na/
+8tu
+8na/
+8na
+8dhin/
+8na
+8dhin/
+8na
+8na/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhinna  nadhin  nana  dhinna  nadhin  nana  dhinna  dhinna  
+!PARSE> 8: Bb/bB/bb/Bb/bB/bb/Bb/Bb
+8dhin
+8na/
+8na
+8dhin/
+8na
+8na/
+8dhin
+8na/
+8na
+8dhin/
+8na
+8na/
+8dhin
+8na/
+8dhin
+8na/
+*break
+!DATA> dhinna  nadhin  nana  dhinna  dhinna  nadhin  natu  nana  
+!PARSE> 8: Bb/bB/bb/Bb/Bb/bB/bv/bb
+8dhin
+8na/
+8na
+8dhin/
+8na
+8na/
+8dhin
+8na/
+8dhin
+8na/
+8na
+8dhin/
+8na
+8tu/
+8na
+8na/
+*break
+!DATA> tuna  natu  nana  tuna  natu  nana  tuna  tuna  
+!PARSE> 8: vb/bv/bb/vb/bv/bb/vb/vb
+8tu
+8na/
+8na
+8tu/
+8na
+8na/
+8tu
+8na/
+8na
+8tu/
+8na
+8na/
+8tu
+8na/
+8tu
+8na/
+*break
+!DATA> dhinna  nadhin  nana  dhinna  dhinna  nadhin  nadhin  nana  
+!PARSE> 8: Bb/bB/bb/Bb/Bb/bB/bB/bb
+8dhin
+8na/
+8na
+8dhin/
+8na
+8na/
+8dhin
+8na/
+8dhin
+8na/
+8na
+8dhin/
+8na
+8dhin/
+8na
+8na/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhinna  nana  tuna  nana  dhinna  nana  tuna  nana  
+!PARSE> 8: Bb/bb/vb/bb/Bb/bb/vb/bb
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+8na
+8na/
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+8na
+8na/
+*break
+!DATA> dhinna  nana  tuna  nana  dhinna  nana  tuna  nana  
+!PARSE> 8: Bb/bb/vb/bb/Bb/bb/vb/bb
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+8na
+8na/
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+8na
+8na/
+*break
+!DATA> dhinna  nana  tuna  nana  dhinna  nana  tuna  nana  
+!PARSE> 8: Bb/bb/vb/bb/Bb/bb/vb/bb
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+8na
+8na/
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+8na
+8na/
+*break
+!DATA> dhinna  nana  tuna  nana  dhinna  nana  tuna  --  
+!PARSE> 8: Bb/bb/vb/bb/Bb/bb/vb/--
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+8na
+8na/
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+4r/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> nana  dhinna  nana  tuna  nana  dhinna  nana  tuna  
+!PARSE> 8: bb/Bb/bb/vb/bb/Bb/bb/vb
+8na
+8na/
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+8na
+8na/
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+*break
+!DATA> nana  dhinna  nana  tuna  nana  dhinna  nana  tuna  
+!PARSE> 8: bb/Bb/bb/vb/bb/Bb/bb/vb
+8na
+8na/
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+8na
+8na/
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+*break
+!DATA> nana  dhinna  nana  tuna  nana  dhinna  nana  tuna  
+!PARSE> 8: bb/Bb/bb/vb/bb/Bb/bb/vb
+8na
+8na/
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+8na
+8na/
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+*break
+!DATA> nana  dhinna  nana  tuna  nana  dhinna  nana  tuna  
+!PARSE> 8: bb/Bb/bb/vb/bb/Bb/bb/vb
+8na
+8na/
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+8na
+8na/
+8dhin
+8na/
+8na
+8na/
+8tu
+8na/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhana  nana  nana  nana  nana  nana  nana  nana  
+!PARSE> 8: Hb/bb/bb/bb/bb/bb/bb/bb
+8dha
+8na/
+8na
+8na/
+8na
+8na/
+8na
+8na/
+8na
+8na/
+8na
+8na/
+8na
+8na/
+8na
+8na/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> nana  nadhin  nana  natu  nana  nadhin  nana  natu  
+!PARSE> 8: bb/bB/bb/bv/bb/bB/bb/bv
+8na
+8na/
+8na
+8dhin/
+8na
+8na/
+8na
+8tu/
+8na
+8na/
+8na
+8dhin/
+8na
+8na/
+8na
+8tu/
+*break
+!DATA> nana  nadhin  nana  natu  nana  nadhin  nana  natu  
+!PARSE> 8: bb/bB/bb/bv/bb/bB/bb/bv
+8na
+8na/
+8na
+8dhin/
+8na
+8na/
+8na
+8tu/
+8na
+8na/
+8na
+8dhin/
+8na
+8na/
+8na
+8tu/
+*break
+!DATA> nana  nadhin  nana  natu  nana  nadhin  nana  natu  
+!PARSE> 8: bb/bB/bb/bv/bb/bB/bb/bv
+8na
+8na/
+8na
+8dhin/
+8na
+8na/
+8na
+8tu/
+8na
+8na/
+8na
+8dhin/
+8na
+8na/
+8na
+8tu/
+*break
+!DATA> nana  nadhin  nana  natu  nana  nadhin  nana  natu  
+!PARSE> 8: bb/bB/bb/bv/bb/bB/bb/bv
+8na
+8na/
+8na
+8dhin/
+8na
+8na/
+8na
+8tu/
+8na
+8na/
+8na
+8dhin/
+8na
+8na/
+8na
+8tu/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> nadha  nadhin  nadha  natu  nadha  nadhin  nadha  natu  
+!PARSE> 8: bH/bB/bH/bv/bH/bB/bH/bv
+8na
+8dha/
+8na
+8dhin/
+8na
+8dha/
+8na
+8tu/
+8na
+8dha/
+8na
+8dhin/
+8na
+8dha/
+8na
+8tu/
+*break
+!DATA> nadha  nadhin  nadha  natu  nadha  nadhin  nadha  natu  
+!PARSE> 8: bH/bB/bH/bv/bH/bB/bH/bv
+8na
+8dha/
+8na
+8dhin/
+8na
+8dha/
+8na
+8tu/
+8na
+8dha/
+8na
+8dhin/
+8na
+8dha/
+8na
+8tu/
+*break
+!DATA> nadha  nadhin  nadha  natu  nadha  nadhin  nadha  natu  
+!PARSE> 8: bH/bB/bH/bv/bH/bB/bH/bv
+8na
+8dha/
+8na
+8dhin/
+8na
+8dha/
+8na
+8tu/
+8na
+8dha/
+8na
+8dhin/
+8na
+8dha/
+8na
+8tu/
+*break
+!DATA> nadha  nadhin  nadha  natu  nadha  nadhin  nadha  natu  
+!PARSE> 8: bH/bB/bH/bv/bH/bB/bH/bv
+8na
+8dha/
+8na
+8dhin/
+8na
+8dha/
+8na
+8tu/
+8na
+8dha/
+8na
+8dhin/
+8na
+8dha/
+8na
+8tu/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> nadha  nadha  nana  dhana  dhana  dhana  dhana  dhana  
+!PARSE> 8: bH/bH/bb/Hb/Hb/Hb/Hb/Hb
+8na
+8dha/
+8na
+8dha/
+8na
+8na/
+8dha
+8na/
+8dha
+8na/
+8dha
+8na/
+8dha
+8na/
+8dha
+8na/
+*break
+*sam
+*-
+!! !!theme
+**bol
+!DATA> dhatu  nana  tadhin  nana  dhatu  nana  tadhin  nana  
+!PARSE> 8: Hv/bb/mB/bb/Hv/bb/mB/bb
+8dha
+8tu/
+8na
+8na/
+8ta
+8dhin/
+8na
+8na/
+8dha
+8tu/
+8na
+8na/
+8ta
+8dhin/
+8na
+8na/
+*break
+!DATA> dhatu  nana  tadhin  nana  dhatu  nana  tadhin  nana  
+!PARSE> 8: Hv/bb/mB/bb/Hv/bb/mB/bb
+8dha
+8tu/
+8na
+8na/
+8ta
+8dhin/
+8na
+8na/
+8dha
+8tu/
+8na
+8na/
+8ta
+8dhin/
+8na
+8na/
+*break
+!DATA> dhatu  nana  tadhin  nana  dhatu  nana  tadhin  nana  
+!PARSE> 8: Hv/bb/mB/bb/Hv/bb/mB/bb
+8dha
+8tu/
+8na
+8na/
+8ta
+8dhin/
+8na
+8na/
+8dha
+8tu/
+8na
+8na/
+8ta
+8dhin/
+8na
+8na/
+*break
+!DATA> dhatu  nana  tadhin  nana  dhatu  na-kete  takathaka  terekete  
+!PARSE> 8: Hv/bb/mB/bb/Hv/b-Wp/mVeV/pjWp
+8dha
+8tu/
+8na
+8na/
+8ta
+8dhin/
+8na
+8na/
+8dha
+8tu/
+8na
+16ke
+16te/
+16ta
+16ka
+16tha
+16ka/
+16te
+16re
+16ke
+16te/
+*break
+*sam
+*-
+!! !!tihai
+**bol
+!DATA> dhatu  nana  nana  nana  dha-  tete  dhatu  nana  
+!PARSE> 8: Hv/bb/bb/bb/H-/pp/Hv/bb
+8dha
+8tu/
+8na
+8na/
+8na
+8na/
+8na
+8na/
+4dha/
+8te
+8te/
+8dha
+8tu/
+8na
+8na/
+*break
+!DATA> nana  nana  dha-  tete  dhatu  nana  nana  nana  
+!PARSE> 8: bb/bb/H-/pp/Hv/bb/bb/bb
+8na
+8na/
+8na
+8na/
+4dha/
+8te
+8te/
+8dha
+8tu/
+8na
+8na/
+8na
+8na/
+8na
+8na/
+*break
+!DATA> dha-
+!PARSE> 1: H-
+4dha/
+*break
+*-

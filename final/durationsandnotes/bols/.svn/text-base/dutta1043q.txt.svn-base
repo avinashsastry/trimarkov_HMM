@@ -1,0 +1,660 @@
+!! iid: dutta1043q
+!! theme: dha  dha  te  te  dha  dha  tu  na  ta  ta  te  te  dha  dha  dhi  na
+!! vol: 1
+!! page: 43
+!! form: qaida
+!! taal: teentaal
+!! tempo: vilambit
+!! 
+!! !!theme
+**bol
+!DATA> dha  dha  te  te  dha  dha  tu  na  ta  ta  te  te  dha  dha  dhi  na  
+!PARSE> 16: H/H/p/p/H/H/v/b/m/m/p/p/H/H/F/b
+4dha/
+4dha/
+4te/
+4te/
+4dha/
+4dha/
+4tu/
+4na/
+4ta/
+4ta/
+4te/
+4te/
+4dha/
+4dha/
+4dhi/
+4na/
+*break
+*sam
+*-
+!! !!var 1
+**bol
+!DATA> dhadha  tete  dhadha  tete  dhadha  tete  dhadha  tuna  
+!PARSE> 8: HH/pp/HH/pp/HH/pp/HH/vb
+8dha
+8dha/
+8te
+8te/
+8dha
+8dha/
+8te
+8te/
+8dha
+8dha/
+8te
+8te/
+8dha
+8dha/
+8tu
+8na/
+*break
+!DATA> tata  tete  tata  tete  dhadha  tete  dhadha  dhina  
+!PARSE> 8: mm/pp/mm/pp/HH/pp/HH/Fb
+8ta
+8ta/
+8te
+8te/
+8ta
+8ta/
+8te
+8te/
+8dha
+8dha/
+8te
+8te/
+8dha
+8dha/
+8dhi
+8na/
+*break
+*sam
+*-
+!! !!var 2
+**bol
+!DATA> dhadha  tete  tete  tete  dhadha  tete  dhadha  tuna  
+!PARSE> 8: HH/pp/pp/pp/HH/pp/HH/vb
+8dha
+8dha/
+8te
+8te/
+8te
+8te/
+8te
+8te/
+8dha
+8dha/
+8te
+8te/
+8dha
+8dha/
+8tu
+8na/
+*break
+!DATA> tata  tete  tete  tete  dhadha  tete  dhadha  dhina  
+!PARSE> 8: mm/pp/pp/pp/HH/pp/HH/Fb
+8ta
+8ta/
+8te
+8te/
+8te
+8te/
+8te
+8te/
+8dha
+8dha/
+8te
+8te/
+8dha
+8dha/
+8dhi
+8na/
+*break
+*sam
+*-
+!! !!var 3
+**bol
+!DATA> dhadha  tete  tete  dhadha  dhadha  tete  dhadha  tuna  
+!PARSE> 8: HH/pp/pp/HH/HH/pp/HH/vb
+8dha
+8dha/
+8te
+8te/
+8te
+8te/
+8dha
+8dha/
+8dha
+8dha/
+8te
+8te/
+8dha
+8dha/
+8tu
+8na/
+*break
+!DATA> tata  tete  tete  tata  dhadha  tete  dhadha  dhina  
+!PARSE> 8: mm/pp/pp/mm/HH/pp/HH/Fb
+8ta
+8ta/
+8te
+8te/
+8te
+8te/
+8ta
+8ta/
+8dha
+8dha/
+8te
+8te/
+8dha
+8dha/
+8dhi
+8na/
+*break
+*sam
+*-
+!! !!var 4
+**bol
+!DATA> dhadha  tete  tete  dhadha  tete  tete  dhadha  tuna  
+!PARSE> 8: HH/pp/pp/HH/pp/pp/HH/vb
+8dha
+8dha/
+8te
+8te/
+8te
+8te/
+8dha
+8dha/
+8te
+8te/
+8te
+8te/
+8dha
+8dha/
+8tu
+8na/
+*break
+!DATA> tata  tete  tete  tata  tete  tete  dhadha  dhina  
+!PARSE> 8: mm/pp/pp/mm/pp/pp/HH/Fb
+8ta
+8ta/
+8te
+8te/
+8te
+8te/
+8ta
+8ta/
+8te
+8te/
+8te
+8te/
+8dha
+8dha/
+8dhi
+8na/
+*break
+*sam
+*-
+!! !!var 5
+**bol
+!DATA> dhadha  tete  tete  dhadha  tete  tete  dhadha  tete  
+!PARSE> 8: HH/pp/pp/HH/pp/pp/HH/pp
+8dha
+8dha/
+8te
+8te/
+8te
+8te/
+8dha
+8dha/
+8te
+8te/
+8te
+8te/
+8dha
+8dha/
+8te
+8te/
+*break
+!DATA> tete  dhadha  tete  tete  dhadha  tete  dhadha  tuna  
+!PARSE> 8: pp/HH/pp/pp/HH/pp/HH/vb
+8te
+8te/
+8dha
+8dha/
+8te
+8te/
+8te
+8te/
+8dha
+8dha/
+8te
+8te/
+8dha
+8dha/
+8tu
+8na/
+*break
+!DATA> tata  tete  tete  tata  tete  tete  tata  tete  
+!PARSE> 8: mm/pp/pp/mm/pp/pp/mm/pp
+8ta
+8ta/
+8te
+8te/
+8te
+8te/
+8ta
+8ta/
+8te
+8te/
+8te
+8te/
+8ta
+8ta/
+8te
+8te/
+*break
+!DATA> tete  tata  tete  tete  dhadha  tete  dhadha  dhina  
+!PARSE> 8: pp/mm/pp/pp/HH/pp/HH/Fb
+8te
+8te/
+8ta
+8ta/
+8te
+8te/
+8te
+8te/
+8dha
+8dha/
+8te
+8te/
+8dha
+8dha/
+8dhi
+8na/
+*break
+*sam
+*-
+!! !!var 6
+**bol
+!DATA> dhate  tedha  tete  tete  dhadha  tete  dhadha  tuna  
+!PARSE> 8: Hp/pH/pp/pp/HH/pp/HH/vb
+8dha
+8te/
+8te
+8dha/
+8te
+8te/
+8te
+8te/
+8dha
+8dha/
+8te
+8te/
+8dha
+8dha/
+8tu
+8na/
+*break
+!DATA> tate  teta  tete  tete  dhadha  tete  dhadha  dhina  
+!PARSE> 8: mp/pm/pp/pp/HH/pp/HH/Fb
+8ta
+8te/
+8te
+8ta/
+8te
+8te/
+8te
+8te/
+8dha
+8dha/
+8te
+8te/
+8dha
+8dha/
+8dhi
+8na/
+*break
+*sam
+*-
+!! !!var 7
+**bol
+!DATA> dhate  tedha  dhate  tedha  dhate  tedha  dhadha  tuna  
+!PARSE> 8: Hp/pH/Hp/pH/Hp/pH/HH/vb
+8dha
+8te/
+8te
+8dha/
+8dha
+8te/
+8te
+8dha/
+8dha
+8te/
+8te
+8dha/
+8dha
+8dha/
+8tu
+8na/
+*break
+!DATA> tate  teta  tate  teta  dhate  tedha  dhadha  dhina  
+!PARSE> 8: mp/pm/mp/pm/Hp/pH/HH/Fb
+8ta
+8te/
+8te
+8ta/
+8ta
+8te/
+8te
+8ta/
+8dha
+8te/
+8te
+8dha/
+8dha
+8dha/
+8dhi
+8na/
+*break
+*sam
+*-
+!! !!var 8
+**bol
+!DATA> dhate  tedha  -te  tedha  dhate  tedha  dhadha  tuna  
+!PARSE> 8: Hp/pH/-p/pH/Hp/pH/HH/vb
+8dha
+8te/
+8te
+8dha/
+8r
+8te/
+8te
+8dha/
+8dha
+8te/
+8te
+8dha/
+8dha
+8dha/
+8tu
+8na/
+*break
+!DATA> tate  teta  -te  teta  dhate  tedha  dhadha  dhina  
+!PARSE> 8: mp/pm/-p/pm/Hp/pH/HH/Fb
+8ta
+8te/
+8te
+8ta/
+8r
+8te/
+8te
+8ta/
+8dha
+8te/
+8te
+8dha/
+8dha
+8dha/
+8dhi
+8na/
+*break
+*sam
+*-
+!! !!var 9
+**bol
+!DATA> dhate  tedha  -te  tedha  -te  tedha  dhadha  tuna  
+!PARSE> 8: Hp/pH/-p/pH/-p/pH/HH/vb
+8dha
+8te/
+8te
+8dha/
+8r
+8te/
+8te
+8dha/
+8r
+8te/
+8te
+8dha/
+8dha
+8dha/
+8tu
+8na/
+*break
+!DATA> tate  teta  -te  teta  -te  tedha  dhadha  dhina  
+!PARSE> 8: mp/pm/-p/pm/-p/pH/HH/Fb
+8ta
+8te/
+8te
+8ta/
+8r
+8te/
+8te
+8ta/
+8r
+8te/
+8te
+8dha/
+8dha
+8dha/
+8dhi
+8na/
+*break
+*sam
+*-
+!! !!var 10
+**bol
+!DATA> dhate  tedha  --  dhate  tedha  --  dhadha  tuna  
+!PARSE> 8: Hp/pH/--/Hp/pH/--/HH/vb
+8dha
+8te/
+8te
+8dha/
+4r/
+8dha
+8te/
+8te
+8dha/
+4r/
+8dha
+8dha/
+8tu
+8na/
+*break
+!DATA> tate  teta  --  tate  teta  --  dhadha  dhina  
+!PARSE> 8: mp/pm/--/mp/pm/--/HH/Fb
+8ta
+8te/
+8te
+8ta/
+4r/
+8ta
+8te/
+8te
+8ta/
+4r/
+8dha
+8dha/
+8dhi
+8na/
+*break
+*sam
+*-
+!! !!var 11
+**bol
+!DATA> dhate  tedha  --  dha-  -dha  --  dhadha  tuna  
+!PARSE> 8: Hp/pH/--/H-/-H/--/HH/vb
+8dha
+8te/
+8te
+8dha/
+4r/
+4dha/
+8r
+8dha/
+4r/
+8dha
+8dha/
+8tu
+8na/
+*break
+!DATA> tate  teta  --  ta-  -ta  --  dhadha  dhina  
+!PARSE> 8: mp/pm/--/m-/-m/--/HH/Fb
+8ta
+8te/
+8te
+8ta/
+4r/
+4ta/
+8r
+8ta/
+4r/
+8dha
+8dha/
+8dhi
+8na/
+*break
+*sam
+*-
+!! !!var 12
+**bol
+!DATA> dhate  tedha  --  dha-  -dha  tete  dhadha  tuna  
+!PARSE> 8: Hp/pH/--/H-/-H/pp/HH/vb
+8dha
+8te/
+8te
+8dha/
+4r/
+4dha/
+8r
+8dha/
+8te
+8te/
+8dha
+8dha/
+8tu
+8na/
+*break
+!DATA> tate  teta  --  ta-  -ta  tete  dhadha  dhina  
+!PARSE> 8: mp/pm/--/m-/-m/pp/HH/Fb
+8ta
+8te/
+8te
+8ta/
+4r/
+4ta/
+8r
+8ta/
+8te
+8te/
+8dha
+8dha/
+8dhi
+8na/
+*break
+*sam
+*-
+!! !!var 13
+**bol
+!DATA> dhate  tedha  --  dha-  dhadha  tete  dhadha  tuna  
+!PARSE> 8: Hp/pH/--/H-/HH/pp/HH/vb
+8dha
+8te/
+8te
+8dha/
+4r/
+4dha/
+8dha
+8dha/
+8te
+8te/
+8dha
+8dha/
+8tu
+8na/
+*break
+!DATA> tate  teta  --  ta-  dhadha  tete  dhadha  dhina  
+!PARSE> 8: mp/pm/--/m-/HH/pp/HH/Fb
+8ta
+8te/
+8te
+8ta/
+4r/
+4ta/
+8dha
+8dha/
+8te
+8te/
+8dha
+8dha/
+8dhi
+8na/
+*break
+*sam
+*-
+!! !!tihai
+**bol
+!DATA> dhate  tedha  --  dha-  dha-  -dha  -dha  --  
+!PARSE> 8: Hp/pH/--/H-/H-/-H/-H/--
+8dha
+8te/
+8te
+8dha/
+4r/
+4dha/
+4dha/
+8r
+8dha/
+8r
+8dha/
+4r/
+*break
+!DATA> dha-  --  --  --  dhate  tedha  --  dha-  
+!PARSE> 8: H-/--/--/--/Hp/pH/--/H-
+4dha/
+4r/
+4r/
+4r/
+8dha
+8te/
+8te
+8dha/
+4r/
+4dha/
+*break
+!DATA> dha-  -dha  -dha  --  dha-  --  --  --  
+!PARSE> 8: H-/-H/-H/--/H-/--/--/--
+4dha/
+8r
+8dha/
+8r
+8dha/
+4r/
+4dha/
+4r/
+4r/
+4r/
+*break
+!DATA> dhate  tedha  --  dha-  dha-  -dha  -dha  --  
+!PARSE> 8: Hp/pH/--/H-/H-/-H/-H/--
+8dha
+8te/
+8te
+8dha/
+4r/
+4dha/
+4dha/
+8r
+8dha/
+8r
+8dha/
+4r/
+*break
+!DATA> dha
+!PARSE> 1: H
+4dha/
+*break
+*-

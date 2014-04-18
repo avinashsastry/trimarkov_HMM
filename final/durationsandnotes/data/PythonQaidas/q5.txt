@@ -1,0 +1,89 @@
+!!   !!iid: Qaida  5  (16  beats)
+!!theme 
+**bol
+!DATA> dha-ti-dha-ge-  na-dha-terekite  tak-dha-ti-dha-  ge-na-tu-na-  
+!PARSE> 4: H-q-H-U-/b-H-pjXp/M-H-q-H-/U-b-v-b-
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ki
+32te/
+16tak
+16dha
+16ti
+16dha/
+16ge
+16na
+16tu
+16na/
+*break
+!DATA> ge-na-terikite  tak-dha-ti-dha-  ge-na-dha-ge-  tu-na-ke-na-
+!PARSE> 4: U-b-plXp/M-H-q-H-/U-b-H-U-/v-b-W-b-
+16ge
+16na
+32te
+32ri
+32ki
+32te/
+16tak
+16dha
+16ti
+16dha/
+16ge
+16na
+16dha
+16ge/
+16tu
+16na
+16ke
+16na/
+*break
+*sam
+!DATA> ta-ti-ta-ke-  na-ta-terekite  tak-ta-ti-ta-  ke-na-tu-na-  
+!PARSE> 4: m-q-m-W-/b-m-pjXp/M-m-q-m-/W-b-v-b-
+16ta
+16ti
+16ta
+16ke/
+16na
+16ta
+32te
+32re
+32ki
+32te/
+16tak
+16ta
+16ti
+16ta/
+16ke
+16na
+16tu
+16na/
+*break
+!DATA> ge-na-terikite  tak-dha-ti-dha-  ge-na-dha-ge-  du-na-ke-na-
+!PARSE> 4: U-b-plXp/M-H-q-H-/U-b-H-U-/R-b-W-b-
+16ge
+16na
+32te
+32ri
+32ki
+32te/
+16tak
+16dha
+16ti
+16dha/
+16ge
+16na
+16dha
+16ge/
+16du
+16na
+16ke
+16na/
+*break
+*sam

@@ -1,0 +1,9 @@
+dha	1
+dhe 	2
+dhin	3
+ge	4
+ke	5
+na	6
+te	7
+tin	8
+tun	9

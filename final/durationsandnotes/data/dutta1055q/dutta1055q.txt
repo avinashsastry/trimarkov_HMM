@@ -1,0 +1,1074 @@
+!! iid: dutta1055q
+!! theme: dhati  dhage  nadha  terekete  dhati  dhaga  tuna  kena
+!! vol: 1
+!! page: 55
+!! form: qaida
+!! taal: teentaal
+!! tempo: madhyalaya
+!! 
+!! !!theme
+**bol
+!DATA> dhati  dhage  nadha  terekete  dhati  dhaga  tuna  kena  
+!PARSE> 8: Hq/HU/bH/pjWp/Hq/HT/vb/Wb
+8dha
+8ti/
+8dha
+8ge/
+8na
+8dha/
+16te
+16re
+16ke
+16te/
+8dha
+8ti/
+8dha
+8ga/
+8tu
+8na/
+8ke
+8na/
+*break
+!DATA> tati  take  nata  terekete  dhati  dhaga  dhina  gena  
+!PARSE> 8: mq/mW/bm/pjWp/Hq/HT/Fb/Ub
+8ta
+8ti/
+8ta
+8ke/
+8na
+8ta/
+16te
+16re
+16ke
+16te/
+8dha
+8ti/
+8dha
+8ga/
+8dhi
+8na/
+8ge
+8na/
+*break
+*sam
+*-
+!! !!var 1
+**bol
+!DATA> dhatidhage  na-dha-terekete  dhatidhage  na-dha-terekete  
+!PARSE> 4: HqHU/b-H-pjWp/HqHU/b-H-pjWp
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  tunakena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/vbWb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tatitake  na-ta-terekete  tatitake  na-ta-terekete  
+!PARSE> 4: mqmW/b-m-pjWp/mqmW/b-m-pjWp
+16ta
+16ti
+16ta
+16ke/
+16na
+16ta
+32te
+32re
+32ke
+32te/
+16ta
+16ti
+16ta
+16ke/
+16na
+16ta
+32te
+32re
+32ke
+32te/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  dhinagena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/FbUb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 2
+**bol
+!DATA> dhatidhage  na-dha-terekete  na-dha-terekete  na-dha-terekete  
+!PARSE> 4: HqHU/b-H-pjWp/b-H-pjWp/b-H-pjWp
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  tunakena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/vbWb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tatitake  na-ta-terekete  na-ta-terekete  na-ta-terekete  
+!PARSE> 4: mqmW/b-m-pjWp/b-m-pjWp/b-m-pjWp
+16ta
+16ti
+16ta
+16ke/
+16na
+16ta
+32te
+32re
+32ke
+32te/
+16na
+16ta
+32te
+32re
+32ke
+32te/
+16na
+16ta
+32te
+32re
+32ke
+32te/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  dhinagena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/FbUb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 3
+**bol
+!DATA> dhatidhage  na-dha-terekete  --dha-terekete  --dha-terekete  
+!PARSE> 4: HqHU/b-H-pjWp/--H-pjWp/--H-pjWp
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16r
+16dha
+32te
+32re
+32ke
+32te/
+16r
+16dha
+32te
+32re
+32ke
+32te/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  tunakena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/vbWb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tatitake  na-ta-terekete  --ta-terekete  --ta-terekete  
+!PARSE> 4: mqmW/b-m-pjWp/--m-pjWp/--m-pjWp
+16ta
+16ti
+16ta
+16ke/
+16na
+16ta
+32te
+32re
+32ke
+32te/
+16r
+16ta
+32te
+32re
+32ke
+32te/
+16r
+16ta
+32te
+32re
+32ke
+32te/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  dhinagena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/FbUb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 4
+**bol
+!DATA> dhatidhage  na-dha-terekete  dha--dha  tereketedha---  
+!PARSE> 4: HqHU/b-H-pjWp/H--H/pjWpH---
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+8.dha
+16dha/
+32te
+32re
+32ke
+32te
+8dha/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  tunakena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/vbWb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tatitake  na-ta-terekete  ta--ta  tereketeta---  
+!PARSE> 4: mqmW/b-m-pjWp/m--m/pjWpm---
+16ta
+16ti
+16ta
+16ke/
+16na
+16ta
+32te
+32re
+32ke
+32te/
+8.ta
+16ta/
+32te
+32re
+32ke
+32te
+8ta/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  dhinagena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/FbUb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 5
+**bol
+!DATA> dhatidhage  na-dha-terekete  dha--dha  tereketedha---  
+!PARSE> 4: HqHU/b-H-pjWp/H--H/pjWpH---
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+8.dha
+16dha/
+32te
+32re
+32ke
+32te
+8dha/
+*break
+!DATA> dha-tereketedha-  --dha-terekete  dhatidhaga  tunakena  
+!PARSE> 4: H-pjWpH-/--H-pjWp/HqHT/vbWb
+16dha
+32te
+32re
+32ke
+32te
+16dha/
+16r
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tatitake  na-ta-terekete  ta--ta  tereketeta---  
+!PARSE> 4: mqmW/b-m-pjWp/m--m/pjWpm---
+16ta
+16ti
+16ta
+16ke/
+16na
+16ta
+32te
+32re
+32ke
+32te/
+8.ta
+16ta/
+32te
+32re
+32ke
+32te
+8ta/
+*break
+!DATA> ta-tereketeta-  --dha-terekete  dhatidhaga  dhinagena  
+!PARSE> 4: m-pjWpm-/--H-pjWp/HqHT/FbUb
+16ta
+32te
+32re
+32ke
+32te
+16ta/
+16r
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 6
+**bol
+!DATA> dhatidhage  na-dha-terekete  dha--dha  --dha-  
+!PARSE> 4: HqHU/b-H-pjWp/H--H/--H-
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+8.dha
+16dha/
+8r
+8dha/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  tunakena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/vbWb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tatitake  na-ta-terekete  ta--ta  --ta-  
+!PARSE> 4: mqmW/b-m-pjWp/m--m/--m-
+16ta
+16ti
+16ta
+16ke/
+16na
+16ta
+32te
+32re
+32ke
+32te/
+8.ta
+16ta/
+8r
+8ta/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  dhinagena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/FbUb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 7
+**bol
+!DATA> dhatidhage  na-dha-terekete  dha--dha  --dhati  
+!PARSE> 4: HqHU/b-H-pjWp/H--H/--Hq
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+8.dha
+16dha/
+8r
+16dha
+16ti/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  tunakena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/vbWb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tatitake  na-ta-terekete  ta--ta  --tati  
+!PARSE> 4: mqmW/b-m-pjWp/m--m/--mq
+16ta
+16ti
+16ta
+16ke/
+16na
+16ta
+32te
+32re
+32ke
+32te/
+8.ta
+16ta/
+8r
+16ta
+16ti/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  dhinagena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/FbUb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 8
+**bol
+!DATA> dhatidhage  na-dha-terekete  dha--dha  titadhati  
+!PARSE> 4: HqHU/b-H-pjWp/H--H/qmHq
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+8.dha
+16dha/
+16ti
+16ta
+16dha
+16ti/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  tunakena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/vbWb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tatitake  na-ta-terekete  ta--ta  titatati  
+!PARSE> 4: mqmW/b-m-pjWp/m--m/qmmq
+16ta
+16ti
+16ta
+16ke/
+16na
+16ta
+32te
+32re
+32ke
+32te/
+8.ta
+16ta/
+16ti
+16ta
+16ta
+16ti/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  dhinagena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/FbUb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 9
+**bol
+!DATA> dhatidhage  na-dha-terekete  dhatitadha  titadhati  
+!PARSE> 4: HqHU/b-H-pjWp/HqmH/qmHq
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16ta
+16dha/
+16ti
+16ta
+16dha
+16ti/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  tunakena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/vbWb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tatitake  na-ta-terekete  tatitata  titatati  
+!PARSE> 4: mqmW/b-m-pjWp/mqmm/qmmq
+16ta
+16ti
+16ta
+16ke/
+16na
+16ta
+32te
+32re
+32ke
+32te/
+16ta
+16ti
+16ta
+16ta/
+16ti
+16ta
+16ta
+16ti/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  dhinagena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/FbUb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!var 10
+**bol
+!DATA> dhatidhage  na-dha-terekete  dhatitadha  tidhatita  
+!PARSE> 4: HqHU/b-H-pjWp/HqmH/qHqm
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16ta
+16dha/
+16ti
+16dha
+16ti
+16ta/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  tunakena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/vbWb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> tatitake  na-ta-terekete  tatitata  titatita  
+!PARSE> 4: mqmW/b-m-pjWp/mqmm/qmqm
+16ta
+16ti
+16ta
+16ke/
+16na
+16ta
+32te
+32re
+32ke
+32te/
+16ta
+16ti
+16ta
+16ta/
+16ti
+16ta
+16ti
+16ta/
+*break
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  dhinagena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/FbUb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16dhi
+16na
+16ge
+16na/
+*break
+*sam
+*-
+!! !!tihai
+**bol
+!DATA> dhatidhage  na-dha-terekete  dhatidhaga  tunakena  
+!PARSE> 4: HqHU/b-H-pjWp/HqHT/vbWb
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!DATA> dha---  dhatidhaga  tunakena  dha---  
+!PARSE> 4: H---/HqHT/vbWb/H---
+4dha/
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+4dha/
+*break
+!DATA> dhatidhaga  tunakena  dha---  dhatidhage  
+!PARSE> 4: HqHT/vbWb/H---/HqHU
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+4dha/
+16dha
+16ti
+16dha
+16ge/
+*break
+!DATA> na-dha-terekete  dhatidhaga  tunakena  dha---  
+!PARSE> 4: b-H-pjWp/HqHT/vbWb/H---
+16na
+16dha
+32te
+32re
+32ke
+32te/
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+4dha/
+*break
+!DATA> dhatidhaga  tunakena  dha---  dhatidhaga  
+!PARSE> 4: HqHT/vbWb/H---/HqHT
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+4dha/
+16dha
+16ti
+16dha
+16ga/
+*break
+!DATA> tunakena  dha---  dhatidhage  na-dha-terekete  
+!PARSE> 4: vbWb/H---/HqHU/b-H-pjWp
+16tu
+16na
+16ke
+16na/
+4dha/
+16dha
+16ti
+16dha
+16ge/
+16na
+16dha
+32te
+32re
+32ke
+32te/
+*break
+!DATA> dhatidhaga  tunakena  dha---  dhatidhaga  
+!PARSE> 4: HqHT/vbWb/H---/HqHT
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+4dha/
+16dha
+16ti
+16dha
+16ga/
+*break
+!DATA> tunakena  dha---  dhatidhaga  tunakena  
+!PARSE> 4: vbWb/H---/HqHT/vbWb
+16tu
+16na
+16ke
+16na/
+4dha/
+16dha
+16ti
+16dha
+16ga/
+16tu
+16na
+16ke
+16na/
+*break
+!! dha
+*-
